@@ -1,0 +1,13 @@
+{
+    "name": "uno",
+    "start_url": "/uno",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/uno.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
